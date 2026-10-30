@@ -1,0 +1,9 @@
+==============================================
+INDEX	WORD	FILE_COUNT	FILENAME	WORD_COUNT
+===============================================
+[0 ] apple       	2   	file1.txt	2	file2.txt	2
+[1 ] banana      	2   	file1.txt	2	file2.txt	2
+[2 ] cat         	2   	file1.txt	1	file2.txt	2
+[3 ] dog         	2   	file1.txt	1	file2.txt	2
+[4 ] egg         	2   	file1.txt	1	file2.txt	2
+[5 ] fish        	1   	file1.txt	1
